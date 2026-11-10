@@ -139,11 +139,11 @@ Building a chat backend from the ground up, exploring conversations, memberships
 
 | Achievement | Details |
 |---|---|
-| 🏆 HPCL Productathon | 3rd Place — IIT Roorkee E-Summit 2026 |
-| 🎤 Product Pitch | Presented to the HPCL Technology Team |
-| 💻 DevClub | Associate, Newton School of Technology |
-| ⚡ Neutron 3.0 | Competition Local Host |
-| 🚀 Hackathons | AI Harness, HYPENEXIS and more |
+| HPCL Productathon | 3rd Place — IIT Roorkee E-Summit 2026 |
+| Product Pitch | Presented to the HPCL Technology Team |
+| DevClub | Associate, Newton School of Technology |
+| Neutron 3.0 | Competition Local Host |
+| Hackathons | AI Harness, HYPENEXIS and more |
 
 ---
 
