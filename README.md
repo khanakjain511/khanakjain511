@@ -179,7 +179,7 @@ Building a chat backend from the ground up, exploring conversations, memberships
 ```text
 ╭──────────────────────────────────────────╮
 │                                          │
-│  LEARNING QUEUE                           │
+│  LEARNING QUEUE                          │
 │                                          │
 │  Backend Engineering  [███████░░░]       │
 │  System Design        [███░░░░░░░]       │
