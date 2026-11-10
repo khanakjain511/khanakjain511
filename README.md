@@ -13,6 +13,12 @@
 
 <br/>
 
+<a href="https://khanakjain511.github.io/Portfolio-26/" target="_blank">
+  <img src="https://img.shields.io/badge/✦_EXPLORE_MY_PORTFOLIO-9B83C7?style=for-the-badge&labelColor=171421" alt="Explore My Portfolio" />
+</a>
+
+<br/><br/>
+
 [![GitHub](https://img.shields.io/badge/GitHub-khanakjain511-1C1928?style=flat-square&logo=github&logoColor=C9A7EB)](https://github.com/khanakjain511)
 [![Profile Views](https://komarev.com/ghpvc/?username=khanakjain511&style=flat-square&color=8D72B5&label=PROFILE+VIEWS)](https://github.com/khanakjain511)
 
@@ -191,6 +197,10 @@ Building a chat backend from the ground up, exploring conversations, memberships
 
 <div align="center">
 
+<a href="https://khanakjain511.github.io/Portfolio-26/">
+<img src="https://img.shields.io/badge/Portfolio-Explore%20my%20world-1C1928?style=for-the-badge&logo=googlechrome&logoColor=C9A7EB" />
+</a>
+
 <a href="https://github.com/khanakjain511">
 <img src="https://img.shields.io/badge/GitHub-Explore%20my%20code-1C1928?style=for-the-badge&logo=github&logoColor=C9A7EB" />
 </a>
@@ -201,6 +211,7 @@ Building a chat backend from the ground up, exploring conversations, memberships
 
 <br/><br/>
 
+<!-- Keep your existing closing ASCII block and footer here -->
 ```text
 ┌──────────────────────────────────────────┐
 │                                          │
