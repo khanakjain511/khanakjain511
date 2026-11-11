@@ -58,10 +58,10 @@ I love turning ideas into projects, learning through hackathons, and building th
 
 ### `04 / HIGHLIGHTS`
 
-- 🏆 **3rd Place** — HPCL Productathon, IIT Roorkee E-Summit 2026
-- 🎤 Pitched to the HPCL Technology Team
-- 💻 DevClub Associate — Newton School of Technology
-- ⚡ Competition Local Host — Neutron 3.0
+-  **3rd Place** — HPCL Productathon, IIT Roorkee E-Summit 2026
+-  Pitched to the HPCL Technology Team
+-  DevClub Associate — Newton School of Technology
+-  Competition Local Host — Neutron 3.0
 
 ---
 
@@ -69,13 +69,9 @@ I love turning ideas into projects, learning through hackathons, and building th
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=khanakjain511&bg_color=0B120F&color=39D98A&line=20B978&point=E5FFF1&area=true&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE" />
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=khanakjain511&show_icons=true&hide_border=true&bg_color=0B120F&title_color=39D98A&text_color=D9F5E5&icon_color=20B978" />
 
-<br/><br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=khanakjain511&show_icons=true&hide_border=true&bg_color=0B120F&title_color=39D98A&text_color=D9F5E5&icon_color=20B978" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanakjain511&layout=compact&hide_border=true&bg_color=0B120F&title_color=39D98A&text_color=D9F5E5" />
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=khanakjain511&layout=compact&hide_border=true&bg_color=0B120F&title_color=39D98A&text_color=D9F5E5" />
 
 </div>
 
